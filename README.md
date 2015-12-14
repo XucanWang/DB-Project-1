@@ -1,5 +1,5 @@
 # dbproject
-The application is called TV series(based on the database of Netflix). The app provides the following functions for the users: 1) Search for TV-Series (Advanced Search, user choose from the drop-down menu and get the the list of TV Series related to the choices)
+The application is called Epoch TV (based on the database of Netflix). The app provides the following functions for the users: 1) Search for TV-Series (Advanced Search, user choose from the drop-down menu and get the the list of TV Series related to the choices)
 2) Show search list, wish list, watch list for the user based on the search history, rate and wish list
 3) Recommend TV Series to the user based on watch list of his or herself or other users in the same age or sex, search list and wish list.
 Entities and relationship
